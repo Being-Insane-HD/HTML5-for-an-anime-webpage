@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+<style>
+	.red-text{ color:red; }
+	.text-cen{ text-align:center }
+	.red-bg{
+	background-color:red;
+	}
+	body{ background-image: url("ergo.jpg"); }
+</style>
+<div class="container-fluid">
+	<h1 class="text-primary red-text text-cen">P.S.:-THIS PAGE IS UNDER CONSTRUCTION.</h1>
+</div>
