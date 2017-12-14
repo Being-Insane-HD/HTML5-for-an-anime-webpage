@@ -57,7 +57,7 @@ just a trial into html5 using what I learned
 <td><img src="saiki.jpg" alt="saiki" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\comedy\saiki"><input type="submit" value="saiki"></form></td>
 </tr>
 </table>
-<h3 class="red-text"> For more anime content <a href="F:\others\html\anime2.html">click here</a></p>
+<h3 class="red-text"> For more anime content <a href="anime2.html">click here</a></p>
 <gcse:searchresults></gcse:searchresults>
 </div>
 </div>
