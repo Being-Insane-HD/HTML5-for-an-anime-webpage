@@ -43,18 +43,18 @@ just a trial into html5 using what I learned
 </form>
 <table border="0" cellspacing="25">
 <tr>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\death note.jpg" alt="Death Note" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\deathnote"><input type="submit" value="Death Note"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\ergo proxy.jpg" alt="ergo proxy" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\ErgoProxy"><input type="submit" value="Ergo proxy"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\durarara.jpg" alt="Durarara x2" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\durarara2"><input type="submit" value="Durarara x2"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\tokyo ravens.jpg" alt="tokyo ravens" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\TokyoRavens"><input type="submit" value="Tokyo ravens"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\assassination classroom.jpg" alt="assassination classroom" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\Assassination Classroom"><input type="submit" value="assassination classroom"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\my hero academia.jpg" alt="my hero academia" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\mha"><input type="submit" value="my hero academia"></form></td>
+<td><img src="death note.jpg" alt="Death Note" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\deathnote"><input type="submit" value="Death Note"></form></td>
+<td><img src="ergo proxy.jpg" alt="ergo proxy" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\ErgoProxy"><input type="submit" value="Ergo proxy"></form></td>
+<td><img src="durarara.jpg" alt="Durarara x2" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\durarara2"><input type="submit" value="Durarara x2"></form></td>
+<td><img src="tokyo ravens.jpg" alt="tokyo ravens" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\TokyoRavens"><input type="submit" value="Tokyo ravens"></form></td>
+<td><img src="assassination classroom.jpg" alt="assassination classroom" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\Assassination Classroom"><input type="submit" value="assassination classroom"></form></td>
+<td><img src="my hero academia.jpg" alt="my hero academia" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\mha"><input type="submit" value="my hero academia"></form></td>
 </tr>
 <tr>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\beelzebub.jpg" alt="beelzebub" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\comedy\beelzebub"><input type="submit" value="beelzebub"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\idaten jump.jpg" alt="idaten jump" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\ID jump"><input type="submit" value="idaten jump"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\zatchbell.jpg" alt="zatchbell" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\zatchbell"><input type="submit" value="zatchbell"></form></td>
-<td><img src="C:\Users\Hrishikesh (Jack)\Pictures\anime\saiki.jpg" alt="saiki" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\comedy\saiki"><input type="submit" value="saiki"></form></td>
+<td><img src="beelzebub.jpg" alt="beelzebub" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\comedy\beelzebub"><input type="submit" value="beelzebub"></form></td>
+<td><img src="idaten jump.jpg" alt="idaten jump" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\ID jump"><input type="submit" value="idaten jump"></form></td>
+<td><img src="zatchbell.jpg" alt="zatchbell" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\zatchbell"><input type="submit" value="zatchbell"></form></td>
+<td><img src="saiki.jpg" alt="saiki" class="smaller-image thin-red-border img-responsive"><form method="link" action="D:\anime\comedy\saiki"><input type="submit" value="saiki"></form></td>
 </tr>
 </table>
 <h3 class="red-text"> For more anime content <a href="F:\others\html\anime2.html">click here</a></p>
